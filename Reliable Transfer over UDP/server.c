@@ -2,8 +2,7 @@
 /*  SERVER
 /   CREATED: 9/9/2014
 /   MODIFIED: 9/10/2014
-/   Receives UDP datagrams, and can send a response if the message text is 
-/   "hello", "goodbye", or "exit"
+/   Receives and echos UDP datagrams
 /   INPUTS: IP ADDRESS (string), PORT (int)
 */
 /////////////////////////////////////////////////////////////////////////////////
